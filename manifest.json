@@ -1,0 +1,10 @@
+{
+  "id": "vocabmaster-obsidian",
+  "name": "VocabMaster 背单词",
+  "version": "1.0.1",
+  "minAppVersion": "1.4.0",
+  "description": "打开学习面板，在任意笔记里点词标记生词（12色渐变记忆），一键导出带艾宾浩斯打卡表的生词本 Markdown",
+  "author": "azuregrey",
+  "authorUrl": "mailto:azuregrey@sina.com",
+  "isDesktopOnly": false
+}
